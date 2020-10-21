@@ -1,5 +1,4 @@
 import keyboard
-import time
 
 keys: str = ' qwertyuiop[]asdfghjkl;\'\zxcvbnm,./{}:"|<>?|\\1234567890-=!@#$%^&*()_+\s\t\n\e\r\b\a\R\B\f\v\cA\cZ\ca\cz\0йцукенгшщзхъфывапролджэячсмитьбюQWERTYUIOPASDFGHJKLZXCVBNMЙЦУКЕНГШЩЗХЪФЫВАПРОЛДЖЭЯЧСМИТЬБЮ'
 pressed_keys: str = ''
